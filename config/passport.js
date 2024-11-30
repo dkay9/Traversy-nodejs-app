@@ -41,5 +41,5 @@ module.exports = function(passport) {
         } catch (err) {
             done(err)
         }
-    })
+    }) 
 }
